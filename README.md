@@ -15,10 +15,10 @@
   - **Order Statistics:** Three grid boxes showcasing key order-related statistics for the current month.
   - **Order Table:** Detailed information about orders including Order ID, Status, Transaction ID, Refund Date, and Order Amount. Users can sort, search, and filter orders based on different criteria.
   - **Filter and Search Functionality:** Users can filter orders based on different categories (Payouts, Refunds) using dedicated buttons. Additionally, a search feature allows users to search for specific order IDs or transaction IDs.
-  - **Download Functionality:** Users can download order data in Excel format for analysis.
+  - **Download Functionality:** Users can download order data in Excel,text,html format for analysis.
   - **Tooltip Information:** Information tooltips providing additional details upon hovering over specific elements like question mark icons.
-- **Dynamic Data Handling:** The application manages order-related data dynamically. Users can add, view, update, and delete orders seamlessly.
-- **Responsive Design:** The dashboard features a responsive design ensuring optimal user experience across different devices and screen sizes.
+
+
 
 ## Technology Stack
 
