@@ -9,7 +9,7 @@
 
 ## Key Features
 
-- **User Authentication:** Users can log in to access the dashboard with personalized data based on their role and permissions.
+
 - **Dashboard Interface:** An intuitive dashboard displaying various sections:
   - **Side Navbar:** Navigational sidebar providing quick access to different sections like Home, Orders, Products, Delivery, Payouts, etc.
   - **Order Statistics:** Three grid boxes showcasing key order-related statistics for the current month.
